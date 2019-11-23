@@ -63,3 +63,6 @@ typings/
 reference
 logger.js
 person.js
+index-linux
+index-macos
+index-win.exe
